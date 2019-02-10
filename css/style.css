@@ -1,0 +1,15 @@
+body{
+	margin: 0 auto;
+	background-image:url(../download.png);
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+}
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color: #;
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 150px;
+}
